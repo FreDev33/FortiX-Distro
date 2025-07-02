@@ -1,3 +1,4 @@
 ## PRINCIPIO 0: LA INSPIRACIÓN NO RECONOCIDA  
 "Cuando las grandes corporaciones ignoran contribuciones éticas...  
 nosotros las convertimos en herramientas libres para la humanidad."
+# ¡FortiX vive!
