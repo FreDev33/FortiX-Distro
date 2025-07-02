@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./images/logo/fortix_logo.png" alt="FortiX Logo" width="200">
+  <h1>FortiX Distro</h1>
+  <p>Ética, Automatización y Resurrección de Hardware</p>
+</div>
+
 # FortiX-Distro
 Distribución Linux para guerreros éticos: seguridad automatizada, cloud-ready y respeto al hardware viejo. ¡Legado, no migajas!
 
