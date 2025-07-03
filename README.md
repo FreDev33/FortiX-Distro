@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/logo/fortix_logo.png?$(date +%s))lt="FortiX Logo" width="200">
+  <img src="./images/logo/fortix_logo.png alt="FortiX Logo" width="200">
   <h1>FortiX Distro</h1>
   <p>Ética, Automatización y Resurrección de Hardware</p>
 </div>
