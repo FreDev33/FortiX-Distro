@@ -1,0 +1,75 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+  text-align: center;
+}
+
+header {
+  background: #111;
+  color: #fff;
+  padding: 2rem 1rem;
+}
+
+.logo {
+  width: 120px;
+}
+
+h1 {
+  margin: 1rem 0 0.5rem 0;
+}
+
+.tagline {
+  font-size: 1.2rem;
+}
+
+main {
+  padding: 2rem 1rem;
+}
+
+.button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background: #007acc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+
+.button:hover {
+  background: #005fa3;
+}
+
+.why {
+  margin-top: 3rem;
+}
+
+.why ul {
+  list-style: none;
+  padding: 0;
+}
+
+.why li {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+footer {
+  background: #111;
+  color: #fff;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+footer .socials a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+footer .socials a:hover {
+  text-decoration: underline;
+}
