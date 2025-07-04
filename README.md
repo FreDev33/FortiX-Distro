@@ -1,11 +1,6 @@
 <div align="center">
-<<<<<<< Updated upstream
   <img src="./Images/logo/fortix_logo.png" alt="FortiX Logo" width="200">
   <h1>🛡️ FortiX Distro</h1>
-=======
-  <img src="images/logo/fortix_logo.png" alt="FortiX Logo" width="200">
-  <h1>FortiX Distro</h1>
->>>>>>> Stashed changes
   <p>Ética, Automatización y Resurrección de Hardware</p>
 </div>
 
@@ -16,7 +11,6 @@
 **FortiX** es una distribución Linux ultraligera y ética, pensada para **revivir hardware olvidado** y devolverle valor real.  
 Basada en **Debian**, optimizada para bajo consumo y lista para incluir herramientas de **ciberseguridad** y **automatización radical**.
 
-<<<<<<< Updated upstream
 ---
 
 ## ✨ Filosofía
@@ -39,11 +33,7 @@ El objetivo inmediato: construir una ISO ligera, robusta y modular para equipos 
 
 ---
 
-## 🗂️ Estructura
-=======
 ## 🚀 Instalación (próximamente)
 ```bash
 # ¡Alpha en construcción! 
 dd if=fortix-alpha.iso of=/dev/sdX status=progress
-```
->>>>>>> Stashed changes
