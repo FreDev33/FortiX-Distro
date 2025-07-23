@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/branding/logos/fortix_logo.transparente2.png" alt="FortiX Logo" width="200">
+  <img src="/branding/logos/fortix_logo-transparente2.png" alt="FortiX Logo" width="200">
   <h1>🛡️ FortiX Distro</h1>
   <p>Ética, Automatización y Resurrección de Hardware</p>
 </div>
